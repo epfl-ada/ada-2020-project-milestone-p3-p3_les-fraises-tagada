@@ -36,18 +36,20 @@ Brightkite and Gowalla are mostly american social networks. Therefore, if the pa
 **Week 2:** Comparing mobility patterns in small subsets. (distance between friends' homes by countries) and begin the implementation of interest of users.
 
 
-**Week 3:** continuing with analysis, preparing the data story and short video.
+**Week 3:** continuing with analysis, attempting at finding a mobility model, preparing the data story and short video.
 
 
 ### 7. Organization within the team
 
-* Clement will focus on cleaning the data by splitting the data by countries, merging them and adding appropriate columns (ex: position of homes). The resulting datasets will then be shared before the end of week two. During the next two weeks, Clement will then work on the POIs to identify the most popular points of interest per country, which one users are the most probable to go to and where friends are the most likely to meet. Parallel to that, Clement will start working on the data story.
+* Clement will focus on cleaning the data by splitting the data by countries, merging them and adding appropriate columns. The resulting datasets will then be shared before the end of week one. During the next two weeks, Clement will then work on the POIs to identify the most popular points of interest per country, which one users are the most probable to go to and from this, he will attempt to create a mobility model. Parallel to that, Clement will start working on the data story.
 
-* Marion will, in the first week, begin by comparing mobility patterns with a small dataset (preparing the different algorithms with the help of the replication homework). In week two, she will integrate the algorithms with the countries subsets made by Michael and Clement. In week 3, she will focus on preparing all needed figures and examples for the part she prepared. At the same time Marion will also prepare the short video with the main ideas.
+* Marion will, in the first week, begin by finding the positions of user's house by inspiring herself of what was done in milestone P2. In week two, she will integrate the algorithms with the countries subsets made by Michael and Clement. In week 3, she will focus on preparing all needed figures and examples for the part she prepared. At the same time Marion will also prepare the short video with the main ideas.
 
-* During the first week, Michael will work on cleaning the data and merging the datasets and then splitting the data according to the geolocation. During the second week, Michael will work on analysing the dataset and will compare results. Finally last week, he’ll work on storytelling and on a good way to present the research.     
+* During the first week, Michael will work on cleaning the data and merging the datasets and then splitting the data according to the geolocation. During the second week, Michael will work on creating the website that will host the data story. Finally last week, he’ll work on storytelling and on a good way to present the research.     
 
 
+### 8. Notebooks
 
+The Github repository contains four notebooks.
 
 
