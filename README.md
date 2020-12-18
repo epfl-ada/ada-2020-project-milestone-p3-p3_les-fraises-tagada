@@ -50,6 +50,7 @@ Brightkite and Gowalla are mostly american social networks. Therefore, if the pa
 
 ### 8. Notebooks
 
-The Github repository contains four notebooks.
+The Github repository contains one notebook. Run all cells one after the other to make it work.
+
 
 
