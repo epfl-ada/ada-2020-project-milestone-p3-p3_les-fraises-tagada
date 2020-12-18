@@ -52,5 +52,8 @@ Brightkite and Gowalla are mostly american social networks. Therefore, if the pa
 
 The Github repository contains one notebook. Run all cells one after the other to make it work.
 
+### 9. Data Story
+
+https://oceanos1.github.io/ADA-Storytelling-les-fraises-tagada/
 
 
